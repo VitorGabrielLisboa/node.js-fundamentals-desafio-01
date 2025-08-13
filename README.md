@@ -59,7 +59,7 @@
 ## Estrutura do projeto
 
 ```bash
-📦 corrida-js
+📦 node.js-fundamentals-desafio-01
  ┣ 📜 index.js        # Código principal do jogo
  ┣ 📜 characters.js   # Lista de personagens e atributos
  ┗ 📜 README.md       # Documentação do projeto
