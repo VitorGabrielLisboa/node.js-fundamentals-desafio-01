@@ -56,7 +56,7 @@
 
 ---
 
-## Estrutura do projeto
+## 📁 Estrutura do projeto
 
 ```bash
 📦 node.js-fundamentals-desafio-01
